@@ -8,3 +8,5 @@ OldArchitecture/
 NewArchitecture/
 build/
 .gradle/
+.*
+*.log
